@@ -1,0 +1,9 @@
+CREATE TABLE USUARIO(
+USUARIO VARCHAR (50) PRIMARY KEY NOT NULL,
+PASWORD VARCHAR(50)
+);
+
+insert into usuario values ('Daniel99','123456789'),
+			   ('Guillermo_99','567890128'),
+			   ('Angel_99','234567891'),
+			   ('Vale_99','452312464');
