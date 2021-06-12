@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Asteroides</string>
+    <string name="tituloJuego">Asteroides</string>
+    <string name="botonJugar">Jugar</string>
+    <string name="botonConf">Configurar</string>
+    <string name="botonAcerca">Acerca de</string>
+    <string name="botonPunt">Puntuaciones</string>
+    <string name="botonSalir">Salir</string>
+    <string name="tituloAcerca">Acerca De...</string>
+    <string name="tituloPref">Preferencias</string>
+    <string name="pref_musica">Reproducir Música</string>
+    <string name="pref_graficos">Tipo de gráficos</string>
+    <string name="pref_fragmentos">Número de fragmentos</string>
+    <string name="pref_sum_musica">Se reproduce la música de fondo</string>
+    <string name="pref_sum_graficos">Se escoge la representacion de los gráficos</string>
+    <string name="pref_sum_fragmento">En cuantos trozos se divide los asteroides</string>
+    <string name="pref_multi">Modo Multijugador</string>
+    <string name="pref_activar">Activar multijugador</string>
+    <string name="pref_jugadores">Maximo de jugadores</string>
+    <string name="pref_conexion">Tipos de conexión</string>
+</resources>
